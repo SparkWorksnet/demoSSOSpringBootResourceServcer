@@ -1,0 +1,11 @@
+security:
+  oauth2:
+    resource:
+      token-info-uri: https://sso.sparkworks.net/aa/oauth/check_token
+    client:
+      client-id: client-id
+      client-secret: client-secret
+spring:
+  data:
+    mongodb:
+      port: 57017
