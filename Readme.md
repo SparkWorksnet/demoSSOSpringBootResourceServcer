@@ -1,7 +1,7 @@
-# demoSSOSpringBootResourceServcer
+# demoSSOSpringBootResourceServer
 Spring Boot Demo Application for Accessing SparkWorks SSO
 
-[![Build Status](https://travis-ci.org/SparkWorksnet/demoSSOSpringBootResourceServcer.svg?branch=master)](https://travis-ci.org/SparkWorksnet/demoSSOSpringBootResourceServcer)
+[![Build Status](https://travis-ci.org/SparkWorksnet/demoSSOSpringBootResourceServer.svg?branch=master)](https://travis-ci.org/SparkWorksnet/demoSSOSpringBootResourceServer)
 
 ### Requirements
 
